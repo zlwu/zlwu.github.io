@@ -14,3 +14,6 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+
+# for minima
+show_excerpts: true
